@@ -7,5 +7,6 @@
 * code inspector
 code quality score:
 https://api.codiga.io/project/32581/score/svg
+
 code grade:
 https://api.codiga.io/project/32581/status/svg
