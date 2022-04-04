@@ -20,5 +20,5 @@
 |1|	Reservation done.|
 |2|	Prints the available train.|
 |3|     Cancelled!.|
-|4|	Exits.|
+|4|	...|
 
